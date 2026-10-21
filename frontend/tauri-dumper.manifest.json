@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "C:\\Users\\diazr\\AppData\\Local\\Temp\\opencode\\rewind-analysis\\installer\\rewind-launcher-v2.exe",
+    "sha256": "c90a8707af867af5779a12945c6948817066d21ef1875272d3cc3e6556c24672",
+    "file_size": 18712576,
+    "binary_kind": "pe",
+    "architecture": "X86_64"
+  },
+  "assets": [
+    {
+      "name": "/assets/index-BxyUA_Lo.js",
+      "location": {
+        "header_offset": 13481032,
+        "name_offset": 11283552,
+        "data_offset": 11283577,
+        "data_size_offset": 13481056,
+        "original_compressed_size": 106226,
+        "scan_range": {
+          "start": 11274752,
+          "length": 6637156
+        }
+      },
+      "original_compressed_size": 106226,
+      "decompressed_size": 446395,
+      "compressed_sha256": "629a2f78418730405c6d188d37e8605171cbfcf5050744d02a95419c4ef509ac"
+    },
+    {
+      "name": "/index.html",
+      "location": {
+        "header_offset": 13481064,
+        "name_offset": 11389803,
+        "data_offset": 11389814,
+        "data_size_offset": 13481088,
+        "original_compressed_size": 293,
+        "scan_range": {
+          "start": 11274752,
+          "length": 6637156
+        }
+      },
+      "original_compressed_size": 293,
+      "decompressed_size": 701,
+      "compressed_sha256": "790de6b8b31d8aa439e656f1bad39e034915e19e44d3a4f1d279871fa2f4ebd2"
+    },
+    {
+      "name": "/assets/hxgp5M-Cq5C6Qm1.png",
+      "location": {
+        "header_offset": 13481096,
+        "name_offset": 11390107,
+        "data_offset": 11390134,
+        "data_size_offset": 13481120,
+        "original_compressed_size": 2082923,
+        "scan_range": {
+          "start": 11274752,
+          "length": 6637156
+        }
+      },
+      "original_compressed_size": 2082923,
+      "decompressed_size": 2082915,
+      "compressed_sha256": "b25f1dd31494628494f124ccacb018d44926169a64f55eea53f2530266b4308f"
+    },
+    {
+      "name": "/assets/index-DydwhWmu.css",
+      "location": {
+        "header_offset": 13481128,
+        "name_offset": 13473057,
+        "data_offset": 13473083,
+        "data_size_offset": 13481152,
+        "original_compressed_size": 7943,
+        "scan_range": {
+          "start": 11274752,
+          "length": 6637156
+        }
+      },
+      "original_compressed_size": 7943,
+      "decompressed_size": 38214,
+      "compressed_sha256": "ace88eef8fa4a7baaacc2a12a6cc95b444e7901ec3b1de50e9b8cfce100c50ed"
+    }
+  ]
+}

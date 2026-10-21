@@ -1,0 +1,312 @@
+unique_strings	function_va	function_end	strings
+13	0x14010ed30	0x140112f3f	set_discord_presiler | send_username_chrole | set_clan_member_chat | join_clan_group_ck_server_statuscheck_server_staar_update_failedclear_update_faid_launcher_tokensend_launcher_tomit_clan_requestsubmit_clan_requcel_clan_requestcancel_clan_requ_latest_messagesget_latest_messaove_group_memberremove_group_mem_retry_availablehas_retry_availa | get_latest_pollsget_latest_clanskick_clan_memberget_latest_maresrequest_messagesget_latest_hotfix | claim_mares_reward | get_latest_friends | leave_conversation | request_voice_room | clear_launch_state | get_latest_banneunban_clan_member | delete_group_chasend_voice_signal | d_install_updatedownload_and_insget_latest_trailer
+11	0x1403beee0	0x1403c2243	newshotfixpollsclansmaresfriendsconversationsmessagesbannedupdateUrl | [socket] reader loop ended, connection closed | username-changetoken-validationhotfix.ini | token_validation | messagetitlekindbuttonssaveC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-dialog-2.7.2\src\commands.rs | clan-result | show-trailervoice-resultvoice-signalroom* | socket-disconnected | mares-result | player-searchfriend-result | voice-roommessage-result*
+6	0x1403a8f40	0x1403af4bf	Checking download size... | Download server did not respond.!Failed to reach download server: | Build already downloaded, skipping to extraction...Downloading build...Resuming download... | #Network hiccup, retrying download ( | connection closed earlyconnection stalledA download is already in progress. | downloading.Not enough disk space. This build needs about
+5	0x1403b8fd0	0x1403bc7e3	![download] moved legacy download | Connecting to download server...Download cancelled.The build was updated on the server while downloading. Press Retry to download the latest version. | Extracting build files...1 | Cleaning up...Build installed! | !The downloaded file was damaged (
+5	0x1403c5610	0x1403c6acd	Downloading update... | RewindLauncherUpdate.exe | #update download failed with status | Installing update... | Restarting...submit_clan_requestnametagdescriptioncoloriconmaxMembersrecruiting
+5	0x140592330	0x1405970d0	Preparing manifest (this may take a minute)...https://r2.privateuser.xyz/cloud/manifest/manifest.json | Waiting for server signatures (this may take a minute)...Verifying local files...downloadedv3.json | https://public-backend-service-prod.privateuser.xyz/api/v1/rewind/client/pakchunk/development/signatures)[launch] signatures still building, poll | https://cloud.arc-services.dev/modules/anticheat/Arc.exe | downloadinginternal error: entered unreachable code
+3	0x1407e2940	0x1407e3003	hSkipping informational response in poll_response - should be consumed via poll_informational; stream_id= | 5stream error PROTOCOL_ERROR -- poll_response: stream= | poll_response called after response returned
+2	0x1400914b0	0x14009f0c3	cannot handle `WindowMessage::Close` on the main thread | cannot handle `WindowMessage::Destroy` on the main thread
+2	0x140119320	0x14011aa22	rewindlauncherLogging InConnecting to Rewind | rewind_launcher_v2_lib::discord_rpc::DiscordRpc
+2	0x1403c3b50	0x1403c4c24	"""[socket] rate limited, queued for | not connected to Rewind servicesFortniteGameEngineSelected folder doesn't look like a Fortnite installation (missing FortniteGame/Engine folders).FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exeFortniteGame/Content/Splash/Splash.bmpFortniteClient-Win64-Shipping.exe Not Found!!++Fortnite+Release-"
+2	0x14046ef60	0x14046fef5	username* | messagetitlekindbuttonssaveC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-dialog-2.7.2\src\commands.rs
+2	0x14047d4d0	0x14047f056	Logging InConnecting to Rewindsrc\social.rs | rewind_launcher_v2_lib::discord_rpc::DiscordRpc
+2	0x1404b2480	0x1404b528b	\+\+Fortnite\+Release-(\d{1,2}\.\d{1,2}|Live|Next|Cert)-CL-(\d+)Version not foundUnknown | 28.30https://public-service-live.privateuser.xyz/FortniteGame/Content/Splash/Splash.bmp
+2	0x14058e6a0	0x14058fb0e	game-files-readyCreating Nexon session...Nexon | -potatoFailed to get Arc process IDGame launched!
+2	0x1405a2060	0x1405a3b7b	accountIdlaunch_buildappHandlerenderingModerorpotatofovemailpasswordcheck_server_statusretry_launchsrc\launch.rs | launcherToken
+2	0x1406fc4c0	0x1406fd1fd	Invalid chunk size line: missing size digitinvalid chunk size: overflowchunk trailers bytes over limitInvalid chunk end LFInvalid chunk body CRInvalid chunk body LFInvalid chunk size LFtrailers_buf is None | chunk trailers count overflowInvalid trailer end LFInvalid chunk size line: Invalid Sizesend stream capacity unexpectedly closedC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\context\current.rs
+2	0x14074bc90	0x14074bf9e	Map must not be polled after it returned `Poll::Ready` | polled after complete
+2	0x14074cf90	0x14074d355	TryFlatten polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\try_future\try_flatten.rs | Ready polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+2	0x140767570	0x140767a20	Future polled twiceC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\client.rs | ConnTask Future polled twice
+2	0x1407ee1a0	0x1407ee2f9	BadFrameSizeTooMuchPaddingInvalidSettingValueInvalidWindowUpdateValueInvalidPayloadLengthInvalidPayloadAckSettingsInvalidStreamIdMalformedMessageHeaderListWayTooLargeInvalidDependencyId | HpackDataHeadersPriorityResetSettingsPushPromisePingGoAwayWindowUpdateContinuationUnknown!cannot advance past `remaining`:
+2	0x140807bc0	0x1408156e0	cannot handle `WindowMessage::Close` on the main thread | cannot handle `WindowMessage::Destroy` on the main thread
+2	0x140832f30	0x140833593	Unexpected `raw_window_handle` for the current platformfailed to receive message | bad __TAURI_INVOKE_KEY__ value received in ipc messageAonly alphanumeric, '-', '/', ':', '_' permitted for event names:
+1	0x14000ec30	0x14000f905	SOFTWARE\WinRARexe64exe32SOFTWARE\WOW6432Node\WinRARSOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WinRAR.exeWinRARRewindLauncher/0.0.8!Failed to set up the downloader:
+1	0x1400107b0	0x140010a24	build-download-status
+1	0x140010b00	0x140010d25	build-download-status
+1	0x140011cb0	0x140011f56	build-download-finished
+1	0x140012040	0x14001234f	build-download-progressbuild7-ZipPath64PathSOFTWARE\7-Zip
+1	0x140013c20	0x140013d52	downloading.Not enough disk space. This build needs about
+1	0x140014750	0x14001485f	successmessagephasefileNamefileIndexfileCountbytesDownloadedtotalBytesdownloadSpeedBpswriteSpeedBpsetaSecondsextracting
+1	0x140016f50	0x14001720d	build-download-finished
+1	0x140018ab0	0x140018cd5	update-failed
+1	0x140018db0	0x140019024	update-status
+1	0x140019c10	0x140019db9	update-progress
+1	0x140019df0	0x140019f02	rewind_launcher_v2_lib::discord_rpc::DiscordRpc
+1	0x14001a870	0x14001be3b	rewind_launcher_v2_lib::discord_rpc::DiscordRpc
+1	0x14001cd00	0x14001cf25	launch-status
+1	0x14001d000	0x14001d274	launch-status
+1	0x14001d670	0x14001d916	launch-finished
+1	0x14001da00	0x14001dc4f	launch-finished
+1	0x14001dd10	0x14001e01f	download-progress
+1	0x14001e9b0	0x14001eb76	Failed to start the process%Launcher process suspended with PID:
+1	0x1400303a0	0x140030930	GlobPatternInvalidWindowHandleFailedToReceiveMessage
+1	0x1400312f0	0x140033aeb	cmdcallbackerrorpayloadoptions__TAURI_INVOKE_KEY__struct Message with 6 elements
+1	0x140034930	0x140035471	headerscustomProtocolIpcBlockedREWIND_PROFILEYou are up to datesrc\download_build.rs
+1	0x14005f0d0	0x14005f6a7	assertion failed: flush_paint_messages(None, &subclass_input.event_loop_runner)
+1	0x140077040	0x140077c1e	Initializing the event loop outside of the main thread is a significant cross-platform compatibility hazard. If you absolutely need to create an EventLoop on a different thread, you can use the `EventLoopBuilderExtWindows::any_thread` function.
+1	0x1400aa720	0x1400aa91f	PostMessage failed ; is the messages queue full?
+1	0x1400aaa20	0x1400aac1f	PostMessage failed ; is the messages queue full?
+1	0x1400aad20	0x1400aaf1f	PostMessage failed ; is the messages queue full?
+1	0x1400ab020	0x1400ab21f	PostMessage failed ; is the messages queue full?
+1	0x1400ab320	0x1400ab51f	PostMessage failed ; is the messages queue full?
+1	0x1400ab620	0x1400ab81f	PostMessage failed ; is the messages queue full?
+1	0x1400ab920	0x1400abb1a	PostMessage failed ; is the messages queue full?
+1	0x1400abc20	0x1400abe1b	PostMessage failed ; is the messages queue full?
+1	0x1400abf20	0x1400ac11f	PostMessage failed ; is the messages queue full?
+1	0x1400ac220	0x1400ac41b	PostMessage failed ; is the messages queue full?
+1	0x1400ac520	0x1400ac71f	PostMessage failed ; is the messages queue full?
+1	0x1400ac820	0x1400aca1f	PostMessage failed ; is the messages queue full?
+1	0x1400ad180	0x1400ad41a	PostMessage failed ; is the messages queue full?
+1	0x1400ad7d0	0x1400adcc4	PostMessage failed ; is the messages queue full?
+1	0x1400ae690	0x1400aeaf3	PostMessage failed ; is the messages queue full?
+1	0x1400aece0	0x1400af04d	PostMessage failed ; is the messages queue full?
+1	0x1400af4a0	0x1400af614	PostMessage failed ; is the messages queue full?
+1	0x1400b0060	0x1400b03cf	PostMessage failed ; is the messages queue full?
+1	0x1400b0b70	0x1400b0f61	PostMessage failed ; is the messages queue full?
+1	0x1400b1490	0x1400b167f	PostMessage failed ; is the messages queue full?
+1	0x1400b42f0	0x1400b7548	Object.defineProperty(window, 'ipc', { value: Object.freeze({ postMessage: s=> window.chrome.webview.postMessage(s) }) });
+1	0x1400c0a60	0x1400c0cbe	CreateWebviewCreateWindowInvalidWindowLabelFailedToSendMessageFailedToReceiveMessage
+1	0x1400d7960	0x1400d7c5c	SenderErrorMessageSender
+1	0x1401141a0	0x140114448	get_latest_friends
+1	0x140118b70	0x140118df8	clear_launch_state
+1	0x140124ea0	0x140125430	GlobPatternInvalidWindowHandleFailedToReceiveMessage
+1	0x140130740	0x1401307bd	tauri_utils::Envtauri_plugin_deep_link::imp::DeepLink<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>tauri_plugin_opener::Opener<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>tauri::menu::plugin::MenuChannelstauri::path::desktop::PathResolver<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-2.11.5\src\manager\mod.rs
+1	0x140142540	0x14014354f	File data can't start after the central directoryA local file entry can't start after the central directoryAES encryption without AES extra data fieldArchive header is too large
+1	0x140143ac0	0x1401453b5	Invalid digital signature headerPK
+1	0x1401731a0	0x140173730	GlobPatternInvalidWindowHandleFailedToReceiveMessage
+1	0x1401a6450	0x1401ab089	future polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-tungstenite-0.24.0\src\handshake.rs
+1	0x1401c8da0	0x1401c9330	GlobPatternInvalidWindowHandleFailedToReceiveMessage
+1	0x14022b2f0	0x14022b6a9	rewindlauncher://
+1	0x14022cab0	0x14022cc33	YesNoOkCancelMessageDialogButtonsOkCancelYesNoYesNoCancelOkCustomOkCancelCustomYesNoCancelCustom-X
+1	0x140240420	0x140241f36	namedirectorymainlauncher-token
+1	0x1402828a0	0x140282b32	"dialog!function(){""use strict"";async function n(n,i={},o){return window.__TAURI_INTERNALS__.invoke(n,i,o)}""function""==typeof SuppressedError&&SuppressedError,window.alert=function(i){n(""plugin:dialog|message"",{message:i.toString()})},window.confirm=async function(i){return await n(""plugin:dialog|confirm"",{message:i.toString()})}}();"
+1	0x1402d5360	0x1402d5607	NoParentFailedToConvertPathToItemIdListFailedToConvertPathToFileUrlUnsupportedKeyEmptyTokenInvalidFormatdata did not match any variant of untagged enum WebviewUrlDeserializerEvent name must include only alphanumeric characters, `-`, `/`, `:` and `_`.
+1	0x1402fca30	0x1402fcc5e	tauri_utils::Envtauri_plugin_deep_link::imp::DeepLink<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>tauri_plugin_opener::Opener<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>tauri::menu::plugin::MenuChannelstauri::path::desktop::PathResolver<tauri_runtime_wry::Wry<tauri::EventLoopMessage>>C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-2.11.5\src\manager\mod.rs
+1	0x140333540	0x140333891	polled after complete
+1	0x1403622a0	0x140362369	FrameHeaderC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\io\poll_evented.rs
+1	0x1403624d0	0x1403643ab	C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-tungstenite-0.24.0\src\lib.rs:288 Stream.poll_nextC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-tungstenite-0.24.0\src\lib.rs:298 Stream.with_context poll_next -> read()
+1	0x1403a4530	0x1403a70b8	connection closed earlyconnection stalledA download is already in progress.
+1	0x1403b2dc0	0x1403b334c	downloading.Not enough disk space. This build needs about
+1	0x1403b39b0	0x1403b73c8	1WinRAR or 7-Zip is needed to extract this build.
+1	0x140405f60	0x140406aae	launcherToken
+1	0x14040e1d0	0x14040ef7c	messagetitlekindbuttonssaveC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-dialog-2.7.2\src\commands.rs
+1	0x140419b10	0x14041a65e	request_voice_room
+1	0x140428180	0x140428abd	get_conversations
+1	0x140452440	0x1404531ec	pollIdoptionId
+1	0x140453b20	0x140454be0	messagetitlekindbuttonssaveC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-dialog-2.7.2\src\commands.rs
+1	0x14045b740	0x14045c28e	leave_conversation
+1	0x14046b0d0	0x14046bc0e	username*
+1	0x14047ae10	0x14047b94e	create_clan_group
+1	0x1404847f0	0x14048532e	claim_mares_reward
+1	0x14058c610	0x14058cb4f	1380659212547260619com.privateuser.rewind-launcher-v2mainindex.html--disable-features=msWebOOUI,msPdfOOUI,msSmartScreenProtection --use-fake-ui-for-media-streamhttp://localhost:1420/src\lib.rs
+1	0x14059ea20	0x14059fcce	ws://public-launcher-service.privateuser.xyz/
+1	0x1405a0840	0x1405a1794	No previous launch to retry.Retry already used. Please launch again from your Library.
+1	0x1405c69b0	0x1405c6a74	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1405c6c00	0x1405c6cae	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1405c6d10	0x1405c6d9e	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1405c6df0	0x1405c6ec1	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1405c6f70	0x1405c7055	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140615d40	0x140615e78	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140615f20	0x140616058	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616100	0x140616238	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406162e0	0x140616418	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406164c0	0x1406165bb	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616650	0x140616782	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616830	0x14061695e	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616a10	0x140616b48	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616bf0	0x140616d28	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616dd0	0x140616f08	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140616fb0	0x1406170e2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617190	0x1406172c8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617370	0x1406174a8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617550	0x140617682	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617730	0x140617868	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617910	0x140617a42	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617af0	0x140617c28	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617cd0	0x140617e02	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140617eb0	0x140617fe8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618090	0x1406181c8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618270	0x1406183a8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618450	0x140618588	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618630	0x140618768	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618810	0x140618942	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406189f0	0x140618b28	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618bd0	0x140618d08	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618db0	0x140618ee2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140618f90	0x1406190c2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140619170	0x1406192a2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140619350	0x14061944b	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406194e0	0x140619612	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406196c0	0x1406197f8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406198a0	0x1406199d2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140619a80	0x140619bb2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140619c60	0x140619d8e	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140619e40	0x140619f78	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a020	0x14061a158	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a200	0x14061a332	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a3e0	0x14061a554	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a620	0x14061a723	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a7c0	0x14061a8f8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061a9a0	0x14061aad8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061ab80	0x14061acb2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061ad60	0x14061ae92	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061af40	0x14061b078	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061b120	0x14061b258	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061b300	0x14061b438	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061b4e0	0x14061b618	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061b6c0	0x14061b7f8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061b8a0	0x14061b9d8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061ba80	0x14061bb9b	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061bc50	0x14061bd88	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061be30	0x14061bf68	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c010	0x14061c148	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c1f0	0x14061c328	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c3d0	0x14061c4ee	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c580	0x14061c6b2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c760	0x14061c898	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061c940	0x14061ca3b	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061cad0	0x14061cc08	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061ccb0	0x14061cde2	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061ce90	0x14061cfc8	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061d070	0x14061d1ad	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061d240	0x14061d378	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061d420	0x14061d558	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061d600	0x14061d732	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x14061d7e0	0x14061d918	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1406a4640	0x1406a49c5	called `Result::unwrap()` on an `Err` valueinternal error: entered unreachable code: unsupported window handle, expected: WindowsC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rfd-0.16.0\src\backend\win_cid\message_dialog.rs
+1	0x1406a4bd0	0x1406a4f4d	called `Result::unwrap()` on an `Err` valueinternal error: entered unreachable code: unsupported window handle, expected: WindowsC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rfd-0.16.0\src\backend\win_cid\message_dialog.rs
+1	0x1406a5150	0x1406a54cd	called `Result::unwrap()` on an `Err` valueinternal error: entered unreachable code: unsupported window handle, expected: WindowsC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rfd-0.16.0\src\backend\win_cid\message_dialog.rs
+1	0x1406c1fa0	0x1406c2b1c	bsocket-protocolsec-websocket-prC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tungstenite-0.24.0\src\handshake\client.rs
+1	0x1406c53d0	0x1406c577c	"Unsupported HTTP method used - only GET is allowedHTTP version must be 1.1 or higherNo ""Connection: upgrade"" headerNo ""Upgrade: websocket"" headerNo ""Sec-WebSocket-Version: 13"" headerNo ""Sec-WebSocket-Key"" headerKey mismatch in ""Sec-WebSocket-Accept"" header"
+1	0x1406c9310	0x1406c970b	GETHostConnectionUpgradewebsocketSec-WebSocket-Version13Sec-WebSocket-KeyC:\Users\Kenji\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\str\pattern.rs
+1	0x1406e3530	0x1406e3fd4	has_authority means set_username shouldn't fail
+1	0x1406e45b0	0x1406e460e	Pending error polled more than once
+1	0x1406e5190	0x1406e5226	Map must not be polled after it returned `Poll::Ready`
+1	0x1406e6c70	0x1406e6cbd	kindBuilderRequestRedirect
+1	0x1406e6dc0	0x1406e6e89	kindBuilderRequestRedirect
+1	0x1406f36b0	0x1406f36f1	`Ready` polled after completionC:\Users\Kenji\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\future\ready.rs
+1	0x1406f4390	0x1406f4959	`Ready` polled after completionC:\Users\Kenji\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib/rustlib/src/rust\library\core\src\future\ready.rs
+1	0x1406fe970	0x1406feb36	polled after complete
+1	0x140703e40	0x140703f70	filled must not become larger than initializedC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\socket.rs
+1	0x140704060	0x140704190	filled must not become larger than initializedC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\socket.rs
+1	0x140705ef0	0x1407079eb	future polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+1	0x140709c90	0x140709dcc	filled must not become larger than initializedC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\net\tcp\socket.rs
+1	0x140711a80	0x140711cce	upgradeable client connection polled after upgradeC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\client\conn\http1.rs
+1	0x1407140f0	0x1407143b9	WindowUpdatesize_incrementLibraryRemoteStreamIdPoolDisabledCheckoutNoLongerWantedCheckedOutClosedValueconnection closedReady polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x140714410	0x1407146d9	WindowUpdatesize_incrementLibraryRemoteStreamIdPoolDisabledCheckoutNoLongerWantedCheckedOutClosedValueconnection closedReady polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x14071a3c0	0x14071a681	WindowUpdatesize_incrementLibraryRemoteStreamIdPoolDisabledCheckoutNoLongerWantedCheckedOutClosedValueconnection closedReady polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x14071b650	0x14071b6a3	Ready polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x14071b9e0	0x14071bc48	polled after complete
+1	0x1407205e0	0x14072121a	future polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+1	0x140721970	0x140722392	future polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+1	0x140727600	0x140728fe5	future polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-native-tls-0.3.1\src\lib.rs
+1	0x1407350e0	0x140735a90	#recv_headers; ignoring trailers on
+1	0x1407368e0	0x140736d42	Uconnection error PROTOCOL_ERROR -- recv_window_update: received frame on idle stream
+1	0x14073c920	0x14073f34f	cannot poll Select twiceC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\select.rs
+1	0x140746bd0	0x140747164	Hinternal error: entered unreachable code: poll_read_body invalid state:
+1	0x140747eb0	0x1407480a7	Hinternal error: entered unreachable code: write_trailers invalid state:
+1	0x14074ac80	0x14074aea0	Map must not be polled after it returned `Poll::Ready`
+1	0x14074af10	0x14074afeb	Map must not be polled after it returned `Poll::Ready`
+1	0x14074b070	0x14074b121	Map must not be polled after it returned `Poll::Ready`
+1	0x14074b1c0	0x14074b333	Map must not be polled after it returned `Poll::Ready`
+1	0x14074b410	0x14074b56d	Map must not be polled after it returned `Poll::Ready`
+1	0x14074b5e0	0x14074b7f2	Map must not be polled after it returned `Poll::Ready`
+1	0x14074b8b0	0x14074b9a6	Map must not be polled after it returned `Poll::Ready`
+1	0x14074ba50	0x14074bc0f	Map must not be polled after it returned `Poll::Ready`
+1	0x14074c0d0	0x14074c319	Map must not be polled after it returned `Poll::Ready`
+1	0x14074c4e0	0x14074cbc4	cannot poll Select twiceC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\select.rs
+1	0x140756ad0	0x140756bcb	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x140759380	0x140759a46	Ready polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x140759c90	0x14075a1b5	cannot poll Select twiceC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\select.rs
+1	0x14075a390	0x14075bd8f	assertion failed: Pin::new(&mut rx).poll(cx).is_pending()
+1	0x140772290	0x140772c8e	Future polled twiceC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hyper-1.11.0\src\proto\h2\client.rs
+1	0x140773590	0x1407737b3	last stream closed during poll, wake again
+1	0x140774750	0x140774a9a	Connection::poll; connection error
+1	0x140774f40	0x140778c25	stream errorConnection::poll; IO error
+1	0x140779bf0	0x14077a02b	&pending_window_updates -- pop; stream=
+1	0x14077ac50	0x14077adb2	"""recv_stream_window_update !!; err="
+1	0x14077b5f0	0x14077bb75	Pstream error PROTOCOL_ERROR -- recv_headers: trailers frame was not EOS; stream=
+1	0x14077cb50	0x14077cbc7	Resetstream_iderror_codeInactiveStreamIdUnexpectedFrameTypePayloadTooBigRejectedReleaseCapacityTooBigOverflowedStreamIdMalformedHeadersMissingUriSchemeAndAuthorityPollResetAfterSendResponseSendPingWhilePendingSendSettingsWhilePendingPeerDisabledServerPushInvalidInformationalStatusCodeUserLibraryRemoteOpen
+1	0x14077cc30	0x14077cc68	StreamIdWindowUpdatesize_incrementpoll
+1	0x14077cd50	0x14077e23c	encoded pingencoded go_awayencoded window_updateencoded reset
+1	0x14077faa0	0x140781781	poll_completewritinginvalid frameC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\h2-0.4.15\src\proto\streams\prioritize.rs
+1	0x1407a4290	0x1407a434e	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1407a8880	0x1407a88d6	Ready polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.33\src\future\ready.rs
+1	0x1407ad8f0	0x1407ad93d	Errorkindinvalid header nameinvalid header valueinvalid new lineinvalid response statusinvalid tokentoo many headersinvalid HTTP version
+1	0x1407ad960	0x1407adac0	UserIncompleteMessageUnexpectedMessageCanceledChannelClosedIoBodyBodyWriteShutdownHttp2BodyWriteAbortedInvalidConnectWithBodyServiceNoUpgradeManualUpgradeDispatchGonehyper::Error
+1	0x1407b4c70	0x1407b5a52	Partial headerInactiveStreamIdUnexpectedFrameTypePayloadTooBigRejectedReleaseCapacityTooBigOverflowedStreamIdMalformedHeadersMissingUriSchemeAndAuthorityPollResetAfterSendResponseSendPingWhilePendingSendSettingsWhilePendingPeerDisabledServerPushInvalidInformationalStatusCodeNone
+1	0x1407b61d0	0x1407b6346	EofStartSizeSizeLwsExtensionSizeLfBodyBodyCrBodyLfTrailerTrailerLfEndCrEndLfEndend of file before message length reached
+1	0x1407babc0	0x1407baeb6	buffer space exhausted; sending this messages would overflow the state
+1	0x1407bb610	0x1407bb91e	buffer space exhausted; sending this messages would overflow the state
+1	0x1407c54d0	0x1407c56a6	)clear_stream_window_update_queue; stream=
+1	0x1407d2e30	0x1407d524d	malformed headers: :protocol on non-CONNECT requestmalformed headers: :status field on requestmalformed headers: :scheme in CONNECTmalformed headers: missing pathmalformed headers: missing path in extended CONNECTmalformed headers: :path in CONNECT7stream error PROTOCOL_ERROR -- error building request:
+1	0x1407d8940	0x1407d8e00	malformed message
+1	0x1407dff90	0x1407e057a	pending_sendnext_pending_send_capacityis_pending_send_capacitysend_capacity_incnext_openis_pending_openis_pending_pushnext_pending_acceptis_pending_acceptrecv_flowin_flight_recv_datanext_window_updateis_pending_window_update
+1	0x1407e33a0	0x1407e394f	Qstream error PROTOCOL_ERROR -- recv_trailers: content-length is not zero; stream=
+1	0x1407ee420	0x1407f068d	load_hpack; header list size over abuse max/load_hpack; TE header not set to trailers; val=
+1	0x1407f7ed0	0x1407f7f08	TryFromSliceError()C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\discord-rich-presence-0.2.5\src\pack_unpack.rs
+1	0x1407f8030	0x1407f818e	Couldn't connect to the Discord IPC socket
+1	0x1407f81f0	0x1407f83ab	Couldn't retrieve the Discord IPC socket
+1	0x1407f8410	0x1407f85cb	Couldn't retrieve the Discord IPC socket
+1	0x1407ff7c0	0x1407ff972	__TEMPLATE_sep____TEMPLATE_delimiter____RAW_process_ipc_message_fn____TEMPLATE_os_name____TEMPLATE_fetch_channel_data_command____TEMPLATE_invoke_key____RAW_unregister_listener_function__
+1	0x140832c00	0x140832e5b	CreateWebviewCreateWindowInvalidWindowLabelFailedToSendMessageFailedToReceiveMessage
+1	0x140847bf0	0x140847c1e	SendErrorUnsupportedKeyEmptyTokenInvalidFormat__TEMPLATE_os_name__
+1	0x14084b6f0	0x14084b876	PostMessage failed ; is the messages queue full?
+1	0x14084b990	0x14084bb90	PostMessage failed ; is the messages queue full?
+1	0x14084bc90	0x14084be16	PostMessage failed ; is the messages queue full?
+1	0x14084bf30	0x14084c0a0	PostMessage failed ; is the messages queue full?
+1	0x14084c110	0x14084c310	PostMessage failed ; is the messages queue full?
+1	0x14084c410	0x14084c60b	PostMessage failed ; is the messages queue full?
+1	0x14084c710	0x14084c8ff	PostMessage failed ; is the messages queue full?
+1	0x14084ca00	0x14084cba2	PostMessage failed ; is the messages queue full?
+1	0x14084ccd0	0x14084cecc	PostMessage failed ; is the messages queue full?
+1	0x14084cfd0	0x14084d0e4	PostMessage failed ; is the messages queue full?
+1	0x14084d160	0x14084d360	PostMessage failed ; is the messages queue full?
+1	0x14084d460	0x14084d660	PostMessage failed ; is the messages queue full?
+1	0x14084d760	0x14084d95c	PostMessage failed ; is the messages queue full?
+1	0x14084da60	0x14084dc60	PostMessage failed ; is the messages queue full?
+1	0x14084dd60	0x14084dfe5	PostMessage failed ; is the messages queue full?
+1	0x14084e0f0	0x14084e2f0	PostMessage failed ; is the messages queue full?
+1	0x14084e3f0	0x14084e5df	PostMessage failed ; is the messages queue full?
+1	0x14084e6e0	0x14084e8e0	PostMessage failed ; is the messages queue full?
+1	0x14084e9e0	0x14084ebe0	PostMessage failed ; is the messages queue full?
+1	0x14084ece0	0x14084eee0	PostMessage failed ; is the messages queue full?
+1	0x14087ffa0	0x14088018f	PostMessage failed ; is the messages queue full?
+1	0x14088eff0	0x14088f276	sending on a closed channelFailed to send the message
+1	0x14089c1c0	0x14089c348	PostMessage failed ; is the messages queue full?
+1	0x1408a3980	0x1408a498b	Received a CHAR message but no `event_info` was available. The message is probably IME, returning.
+1	0x1408b2480	0x1408b25ba	-Found empty token while parsing accelerator:
+1	0x1408ca990	0x1408ca9f8	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408cad50	0x1408cadbe	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408d20e0	0x1408d219e	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408d2220	0x1408d22fa	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408d2370	0x1408d244a	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408d24c0	0x1408d259a	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408d2610	0x1408d26ea	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408d4ec0	0x1408d4f6e	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408d4f90	0x1408d503e	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408d5060	0x1408d50a2	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408d77d0	0x1408d78d5	other file operation is pending, call poll_complete before start_seek
+1	0x1408db910	0x1408dbb8f	.unexpected error when polling the I/O driver:
+1	0x1408dbc30	0x1408dbdcf	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408de6d0	0x1408deb3e	A Tokio 1.x context was found, but IO is disabled. Call `enable_io` on the runtime builder to enable IO.A Tokio 1.x context was found, but timers are disabled. Call `enable_time` on the runtime builder to enable timers.C:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\scheduler\current_thread\mod.rs
+1	0x1408f45f0	0x1408f461e	PoisonErrorJoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408f5cd0	0x1408f5dcb	JoinHandle polled after completionC:\Users\Kenji\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-1.53.1\src\runtime\task\core.rs
+1	0x1408faeb0	0x1408faedc	socket != -1
+1	0x1408fd130	0x1408fd245	socket != -1
+1	0x1408fd3c0	0x1408fd3ee	socket != -1
+1	0x140901d80	0x1409022c9	assertion failed: !self.is_polling.swap(true, Ordering::AcqRel)
+1	0x140904ed0	0x1409051ac	failed to create windowWindow labels must only include alphanumeric characters, `-`, `/`, `:` and `_`.failed to send message to the webviewfailed to receive message from webview
+1	0x140932960	0x1409329fa	ExpectedTokenDuplicateNameOpenCloseRegexpNameCharEscapedCharOtherModifierAsteriskEndInvalidCharIncompleteEscapeCodeInvalidName
+1	0x140932a00	0x140932b1f	Tokenizer
+1	0x140960120	0x140961372	no in-progress search to update
+1	0x140961440	0x140963c85	no in-progress search to update
+1	0x140963c90	0x140964f41	no in-progress search to update
+1	0x140965060	0x1409650d1	error building NFA
+1	0x14096df20	0x14096e82d	cannot build lazy DFAs for regexes with Unicode word boundaries; switch to ASCII word boundaries, or heuristically enable Unicode word boundaries or use a different regex engine
+1	0x140a601d0	0x140a6030a	assertion failed: len >= size_of::<c::sockaddr_in>()/rustc/ac68faa20c58cbccd01ee7208bf3b6e93a7d7f96/library\std\src\sys\net\connection\socket\mod.rs
+1	0x140a60310	0x140a6044a	assertion failed: len >= size_of::<c::sockaddr_in>()/rustc/ac68faa20c58cbccd01ee7208bf3b6e93a7d7f96/library\std\src\sys\net\connection\socket\mod.rs
+1	0x140a79290	0x140a794d4	messageKindError
+1	0x140a7a3b0	0x140a7a4f1	assertion failed: len >= size_of::<c::sockaddr_in>()/rustc/ac68faa20c58cbccd01ee7208bf3b6e93a7d7f96/library\std\src\sys\net\connection\socket\mod.rs
+1	0x140a88a60	0x140a88b2a	attempted to format a map value before its key/rustc/ac68faa20c58cbccd01ee7208bf3b6e93a7d7f96/library\core\src\fmt\builders.rs
